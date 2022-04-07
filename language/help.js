@@ -329,10 +329,10 @@ Thanks!
 
 -------「 *Sewa & Jadi Bot* 」-------
 
-┌── 「 *Sewa Bot* 」
-├ Sewa 5k/minggu
-├ Sewa 10k/bln
-├ Sewa Permanen 25k
+┌── 「 *sewa Bot* 」
+├ Sewa 30k/bln
+├ Sewa 50k/2bln
+├ 
 └───────
 
 ┌── 「 *Jadi Bot* 」
